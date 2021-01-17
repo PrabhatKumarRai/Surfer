@@ -1,7 +1,7 @@
 -----------------
 ---- Surfer ----
 -----------------
-#'Surfer' is a simple yet powerful web browser with an amazingly small file size and attractive design.
+#'Surfer' is a web browser with a small file size and attractive design.
 'Surfer' is a "Windows Form Application" based Web Browser.
 With the multiple tabs feature of 'Surfer', you can easily manage your tasks. Access more features like Load local files (images, pdf, etc..), Find on the page (text search), Print Window, etc.
 'Surfer' mainly focuses on simplicity and ease of use for its users.
